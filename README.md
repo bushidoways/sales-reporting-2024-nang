@@ -1,4 +1,4 @@
-# Sales Reporting 2024 — KPI Pack & Trend Analysis
+# Sales Reporting 2024 - KPI Pack & Trend Analysis
 
 A portfolio-ready case study built from a Dummy Data for 2024.  
 Focus: **KPI reporting, MoM/YoY trends, channel mix, discount intensity, and payday patterns**.
